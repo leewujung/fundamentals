@@ -85,14 +85,19 @@
 ## Beam Pattern
 
 - Introduce idea of directivity of the sound source
-	- Simple example might be a megaphone?
+	- Simple example might be using a megaphone?
 	- Even simpler would be to cup hands around mouth.
-- The simplest source is an omnidirectional source, one that transmits the same level of sound in all directions.
-- While some applications use omnidirectional sources, most transducers have some directivity associated with them. 
-- The two common source are a piston source, a source with a flat circular face, and a rectangular source.
+	- In both of those cases the sound is louder for people in front of you than if they are behind you.
+- Typically the sound from an acoustic source will depend on the direction from the source.
+- The sound level as a function of direction is called the beam pattern.
+- An omnidirectional source transmits sounds equally in all directions.
+	- A popping balloon is a good example.
+
+
+### Line source?
+
 
 ### Circular Source
-
 
 
 ### Rectangular Source
