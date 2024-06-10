@@ -3,8 +3,17 @@
 ## Introduction
 - General comments on the generation of sound
 	- Natural sources
-	- Transducers
-- Considerations that go into 
+	- Sonars
+- Considerations that go into the design of sonars:
+	- How loud should it be?
+	- What frequency or frequencies should it operate at?
+	- How big a space do you want to ensonify (like illuminate but with sound)?
+	- What is the size requirement for the transducer? Do you want to mount it in the side of a big ship (long range navy sonar) or be able to carry it onto and use it from a kayak (fish finder)?
+- Frequency often dictates the size of the acoustic source
+	- A loud, low-frequency source needs to be big.
+		- Consider the bass in a pair of headphones versus a subwoofer.
+		- Example for ocean acoustics might be the Kauai source (we can probably get a picture from Rex)
+	
 
 ## Signal Level?
 
@@ -31,7 +40,7 @@
 	- Combination of time series plot and spectrogram
 	- Ability to define amplitude, frequency, pulse length, and maybe start time for multiple CWs?
 		- Idea would be to see the how both time series and spectrogram looks when single and multiple CWs are transmitted.
-### Chirp 
+### Frequency Modulated Signal (Chirp) 
 
 - Also known as frequency modulated (FM) signal
 - Chirp has a range different frequencies in a single signal
@@ -74,3 +83,16 @@
 	- Require very specialized sources (light bulbs, explosives, air gun,...)
 
 ## Beam Pattern
+
+- Introduce idea of directivity of the sound source
+	- Simple example might be a megaphone?
+	- Even simpler would be to cup hands around mouth.
+- The simplest source is an omnidirectional source, one that transmits the same level of sound in all directions.
+- While some applications use omnidirectional sources, most transducers have some directivity associated with them. 
+- The two common source are a piston source, a source with a flat circular face, and a rectangular source.
+
+### Circular Source
+
+
+
+### Rectangular Source
