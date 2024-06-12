@@ -88,16 +88,46 @@
 	- Simple example might be using a megaphone?
 	- Even simpler would be to cup hands around mouth.
 	- In both of those cases the sound is louder for people in front of you than if they are behind you.
-- Typically the sound from an acoustic source will depend on the direction from the source.
-- The sound level as a function of direction is called the beam pattern.
-- An omnidirectional source transmits sounds equally in all directions.
-	- A popping balloon is a good example.
-
+- An omnidirectional source transmits sounds equally in all directions (hence the name).
+	- A popping balloon is a good example of an (approximately) omnidirectional source.
+- More common is for the sound from an acoustic source to depend on the direction from the source.
+	- This direction dependence of the source is often a consequence of the interference of sound coming from different parts of the source.
+	- Consider the dipole.
+	- Widget to construct more complicated collections of sources to show how they interfere?
 
 ### Line source?
 
-
+- Special case of a collection of sources uniformly distributed along a line segment.
+	- (Special case of the widget with sound sources)
+	- A long way from the broadside of the line of sources, the sound from all of the sources arrives at roughly the same time and constructively interferes.
+	- As you move away from broadside, transition through regions of constructive and destructive interference.
+		- Define Beam and beam width.
+		- Source level (axial response, broadside in this case)
+		- Directivity??? Directivity Index???
+		- Near field vs. far field
+- Consider what happens when the density of sources along the line becomes very large
+	- Again a widget is useful here.
+	- Integrate along that line to get a line source.
+		 
 ### Circular Source
 
-
+- Another simple but useful example is a baffled circular piston
+	- The piston vibrates normal to the surface and generates sound.
+	- Beam pattern in axisymmetric
+	- Many actual sonars use a source that is approximately similar to a circular piston
+- Equation (or maybe even the derivation) in a seperate notebook
+- Maybe give examples where axisymmetric source is useful.
+	- Echosounder
+	- ???
+	
 ### Rectangular Source
+
+- Final example to show that transducers can have asymmetric beam patterns
+	- How best to illustrate this?
+	- 3D simulation?
+	- Projection of the beam pattern onto a spherical surface?
+- Define beam parameters for different directions.
+
+## Applying this information
+
+- Example of opening a sonar spec sheet and finding sonar characteristics and relating them back to the concepts above.
