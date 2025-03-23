@@ -46,8 +46,8 @@ parts:
   # TECHNICAL PRIMER
   - caption: Technical primers  
     chapters:
+    - file: primers/codespaces
     - file: primers/decibel.ipynb
-
     - file: primers/stats_00_outline
       sections: 
       - file: primers/stats_01_random_variables.md
