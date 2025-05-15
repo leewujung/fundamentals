@@ -43,7 +43,6 @@ parts:
       - file: acoustics/TS_02_echogram
       - file: acoustics/TS_03_discrete
       - file: acoustics/TS_03_surface
-      - file: acoustics/TS_04_echogram
   # TECHNICAL PRIMER
   - caption: Technical primers  
     chapters:
