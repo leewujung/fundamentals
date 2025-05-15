@@ -4,7 +4,7 @@
 In this tutorial, we will develop a solid understanding of how to breakdown an ocean acoustics problem into distinct components that can each be analyzed separately. This "systems" approach provides a structured framework that will help us gain a holistic picture of the problem.
 
 
-```{tip} ## Learning objectives
+```{tip} **Learning objectives**
 Taking a systems approach to understanding ocean acoustics problems, our goals are to be able to:
 1. Identify key components of the **system** underlying the problem
 2. Analyze the relationships of different components within the system
